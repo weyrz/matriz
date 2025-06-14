@@ -23,7 +23,7 @@ publicación:</strong></p>
 <p>Mayo 2025</p>
 <p><strong>Fecha prevista actualización:</strong></p>
 <p>Mayo 2027</p>
-<p><strong>Autores:</strong></p>
+<p><strong>Autoresas:</strong></p>
 <p>Rocío García</p>
 <p>Adrián Marcos</p>
 <p>Ara Murillo</p></td>
