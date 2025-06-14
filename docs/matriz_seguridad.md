@@ -7,7 +7,7 @@
 <tbody>
 <tr>
 <td rowspan="3"><p>
-<img src="docs/media/image1.jpg" 
+<img src="media/media/image1.jpg" 
 style="width:300px; height:auto;" 
 alt="12_de_octubre.jpg" />
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
