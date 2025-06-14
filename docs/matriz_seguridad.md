@@ -10,7 +10,6 @@
 <img src="/media/media/image1.jpg" 
 style="width:300px; height:auto;" 
 alt="12_de_octubre.jpg" />
-</p>
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
 <td rowspan="3" style="text-align: center;"><p><strong>MATRIZ ATENCIÓN
 INICIAL</strong></p>
