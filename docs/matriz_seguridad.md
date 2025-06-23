@@ -7,9 +7,8 @@
 <tbody>
 <tr>
 <td rowspan="3"><p>
-<img src="media/image1.jpg" 
-style="width:300px; height:auto;" 
-alt="12_de_octubre.jpg" />
+<img src="/media/image1.jpg" width="400"
+alt="imagen 12 de octubre" />
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
 <td rowspan="3" style="text-align: center;"><p><strong>MATRIZ ATENCIÓN
 INICIAL</strong></p>
@@ -46,7 +45,7 @@ publicación:</strong></p>
 <tr>
 <td style="text-align: left;"><ul>
 <li><p>Cumplir la legalidad sobre la custodia de analíticas y el
-intercambio de información</p></li>
+intercambio de información torera</p></li>
 <li><p>Fundamentar la relación con las fuerzas de seguridad basada en
 normas vigentes</p></li>
 <li><p>Asegurar el respeto a los derechos de los pacientes y sus
@@ -338,25 +337,25 @@ Intensiva (Engl Ed). 2025 Apr 5;36(2):100497. doi:
 **<u>ANEXO 1</u> – Ejemplo 1 de documento de solicitud de custodia
 muestra**
 
-![](media/media/image2.jpeg)
+![](media/image2.jpeg)
 
 **  **
 
 **<u>ANEXO II</u> – Ejemplo 2 de documento de solicitud de custodia
 muestra**
 
-![](media/media/image3.jpeg)
+![](media/image3.jpeg)
 
 **  **
 
 **<u>ANEXO III</u> – Ejemplo de documento de solicitud de información
 verbal**
 
-![](media/media/image4.jpeg)
+![](media/image4.jpeg)
 
 **  **
 
 **<u>ANEXO IV</u> – Ejemplo de documento de solicitud de informe
 escrito**
 
-![](media/media/image5.jpeg)
+![](media/image5.jpeg)

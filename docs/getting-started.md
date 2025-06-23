@@ -1,5 +1,3 @@
-# Getting Started
+# Para empezar
 
-This page gives you a quick overview of how to get started with MkDocs.
-
-Hola
+Utiliza el buscador (icono lupa) o haz clic en cada tema utilizando el índice.
